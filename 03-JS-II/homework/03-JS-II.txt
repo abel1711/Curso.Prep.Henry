@@ -1,0 +1,13 @@
+En un archivo de texto separado que debes crear, escribe explicaciones de los siguientes conceptos como si se lo estuvieras explicando a un niño de 12 años. Hacer esto te ayudará a descubrir rápidamente cualquier agujero en tu comprensión.
+for
+&&, ||, !
+
+ciclo for: es un ciclo para repetir porciones de codigo, necesitamos establecer 3 parametros para que funcione, declarar
+    una variable e inicializarla en algun valor que querramos, poner alguna condicion para que el ciclo termine en 
+    determinado momento, y por ultimo sumarle o restarle a la variable para que valla contando.-
+
+&&: se usa como condicion, ambas partes deben ser true para poder devolver true, en caso de que una sea false, devolvera false.-
+
+||: solo una de las partes debe ser true, en caso de que ambas sean false, devolvera false.-
+
+!: lo usamos para decir o establecer lo contrario, ejemplo !true esto es igual a false.-
