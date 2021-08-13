@@ -1,0 +1,21 @@
+En un archivo de texto separado que debes crear, escribe explicaciones de los siguientes conceptos como si se lo estuvieras explicando a un niño de 12 años. Hacer esto te ayudará a descubrir rápidamente cualquier agujero en tu comprensión.
+
+Variables
+Strings
+Funciones (argumentos, return)
+Declaraciones if
+Valores booleanos (true, false);
+
+
+variables: son espacios en memoria que se utilizan para guardar algun valor, ya sea numerico, de string, o booleano, 
+    para luego utilizarlo.-
+
+string: cadena de caracteres, basicamente son palabras o numeros entre comillas 'hola mundo 123' es un string.-
+
+funciones: como el nombre lo explica solo son porciones de codigo que codemos reutilizar tantas veces como deseemos
+    para cumplir con dichas funciones, ya sea la de sumar numeros, mostrar imagenes, etc..-
+
+declaraciones if: cuando usamos el if, es como preguntar si esto (lo que esta entre parentesis)  es verdadero o falso
+    si es verdadero has esto, si es falso has esto otro.-
+
+valores booleanos: true or false, solo eso admite.-
