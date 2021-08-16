@@ -1,0 +1,11 @@
+* {
+    -webkit-box-sizing: border-box;
+       -moz-box-sizing: border-box;
+            box-sizing: border-box;
+            margin: 20px;
+            
+  }
+img{
+    width: 20%;
+    height: auto;
+}
