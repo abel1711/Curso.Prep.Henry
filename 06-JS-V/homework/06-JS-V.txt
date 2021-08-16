@@ -1,0 +1,10 @@
+En un archivo de texto separado que debes crear, escribe explicaciones de los siguientes conceptos como si se lo estuvieras explicando a un niño de 12 años. Hacer esto te ayudará a descubrir rápidamente cualquier agujero en tu comprensión.
+prototype
+Constructors (de Clases)
+
+
+
+prototype: es como se enlazan los objetos, como heredan metodos, propiedades, podemos asignar un metodo a un objeto, y luego llamarlo desde cada instancia
+            esto es muy util para no repetir codigo y no tener que almacenar cada metodo en cada objeto.-
+
+constructor: es el metodo dentro de la clase que crea el objeto.-
