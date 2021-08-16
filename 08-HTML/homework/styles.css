@@ -1,0 +1,17 @@
+a{
+    padding: 50px;
+}
+img {
+    width: 400 px;    
+}
+#thirdDiv {
+    height: 600px;
+    width: 500px;
+    background-color: aqua;
+    padding: 50px;
+    border:10px dotted rgb(24, 70, 221) ;
+}
+#spanId {
+    font-size: 18px;
+    margin: 50px;
+}
