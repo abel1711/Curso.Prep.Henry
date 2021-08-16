@@ -1,0 +1,20 @@
+En un archivo de texto separado que debes crear, escribe explicaciones de los siguientes conceptos como si se lo estuvieras explicando a un niño de 12 años. Hacer esto te ayudará a descubrir rápidamente cualquier agujero en tu comprensión.
+
+Objetos
+Propiedades
+Métodos
+Bucle for…in
+Notación de puntos vs notación de corchetes
+
+
+objetos: son representaciones de cosas o objetos de la vida real, como una persona, auto, casa, etc
+
+propiedades: son cada una de las cualidades o propiedades que tiene el objeto ejemplo: un auto tiene como propiedad 4 puertas.-
+
+metodos: son porpiedades que devuelven una funcion.-
+
+bucle for in: es un bucle for aplicado a un objeto, un bucle for tradicional no nos sirve porque una indices numericos,
+    y los objetos usan indices de string.-
+
+notacion por punto VS notacion de corchetes: la notacion por puntos es mas facil y corta de escribir, pero tiene desventajas
+    no se puede usar una variable como indice.-
