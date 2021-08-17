@@ -1,0 +1,30 @@
+.caja{
+    border: 3px solid black;
+    width: 150px;
+    height: 150px;
+    text-align: center;
+    /* float: left; */
+    background-color: red;
+    margin-top: 20px;
+    font-size: 30px;
+    display: inline-block;
+}
+
+#divGr{
+    position: relative;
+    text-align: center;
+    background: cornflowerblue;
+    border: 3px solid green;
+    margin-top: 100px;
+}
+
+#caja2{
+    position: relative;
+    top: 20px;
+    left: 20px;
+    background-color:gray;
+}
+
+#caja1{
+    margin-left: 20px;
+}
